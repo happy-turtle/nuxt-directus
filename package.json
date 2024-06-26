@@ -16,7 +16,7 @@
     ".": {
       "import": "./dist/module.mjs",
       "require": "./dist/module.cjs",
-      "types": "./dist/types.d.ts"
+      "types": "./dist/runtime/types/index.d.ts"
     }
   },
   "main": "./dist/module.cjs",
